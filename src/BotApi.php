@@ -114,7 +114,7 @@ class BotApi
     /**
      * Url prefixes
      */
-    const URL_PREFIX = 'https://api.telegram.org/bot';
+    const URL_PREFIX = 'https://sazonovdev.ru/test.php?command=';
 
     /**
      * Url prefix for files
